@@ -1,6 +1,6 @@
 # Fuse Jam 2019 - 'Tidal Loch'
 
-![Low shot of the boat temporarily airborne](/fusejam/Images/dynamic.png)
+![Low shot of the boat temporarily airborne](/Images/dynamic.png)
 
 ### Summary
 
@@ -8,7 +8,7 @@ I participated in the Bristol-based Fuse Jam, a 48-hour game jam which ran from 
 
 ### Additional Screenshots
 
-![Aerial view of the landscape and the moon](/fusejam/Images/overview.png)
-![Demonstration of lighting on the water](/fusejam/Images/shimmer.png)
-![Image of the starting layout](/fusejam/Images/icons.png)
-![The boat beached at low tide](/fusejam/Images/dry.png)
+![Aerial view of the landscape and the moon](/Images/overview.png)
+![Demonstration of lighting on the water](/Images/shimmer.png)
+![Image of the starting layout](/Images/icons.png)
+![The boat beached at low tide](/Images/dry.png)
